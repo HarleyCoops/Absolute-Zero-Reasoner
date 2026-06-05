@@ -153,7 +153,7 @@ ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_173330
 pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1733569405015/work
 py-cpuinfo==9.0.0
 pyairports==2.1.1
-pyarrow==19.0.1
+pyarrow==23.0.1
 pyasn1==0.6.3
 pyasn1_modules==0.4.2
 pybind11==2.13.6
@@ -222,7 +222,7 @@ uritemplate==4.1.1
 urllib3==2.7.0
 uvicorn==0.34.0
 uvloop==0.21.0
-vllm==0.22.0
+vllm==0.22.1
 wandb==0.19.8
 watchfiles==1.0.4
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1733231326287/work
